@@ -1,0 +1,6 @@
+torch>=1.10
+torchvision
+numpy
+pillow
+tqdm
+git+https://github.com/openai/CLIP.git
